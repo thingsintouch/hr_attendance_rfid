@@ -4,12 +4,13 @@
 
 {
     'name': 'HR Attendance RFID',
-    'version': '12.0.1.1.0',
+    'version': '13.0.1.1.0',
     'category': 'Human Resources',
     'website': 'https://github.com/OCA/hr',
     'author': 'Comunitea,'
               'Eficent,'
-              'Odoo Community Association (OCA)',
+              'Odoo Community Association (OCA),'
+              'thingsintouch.com',
     'license': 'AGPL-3',
     'application': False,
     'installable': True,
